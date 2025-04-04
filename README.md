@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **diaagit/diaagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 I'm passionate about web development, AI, and IoT.  
 I love to build cool projects, solve real-world problems, and contribute to open-source.
 
-- 🔭 Currently working on: `Smart City IoT Projects`  
+<!-- 🔭 Currently working on: `Smart City IoT Projects`  --->
 - 🌱 Learning: `AI`, `Data Science`, `Full-Stack Development`  
 - 💬 Ask me about anything tech-related  
 - 📫 How to reach me: [Your Email] | [LinkedIn] | [Portfolio]
