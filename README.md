@@ -36,33 +36,6 @@ I love to build cool projects, solve real-world problems, and contribute to open
 
 
 
-## GitHub Profile Representation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/Screenshot_20250404_180859_Instagram.jpg" width="300" alt="Screenshot 1" />
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/Screenshot_20250404_180910_Instagram.jpg" width="300" alt="Screenshot 2" />
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/Screenshot_20250404_180919_Instagram.jpg" width="300" alt="Screenshot 3" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="450"/>
-</p>
-
----
-
-## Let's Connect
-
-<p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-</p>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diya-jain-36316a25a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diyaa11.cloud@gmail.com) 
