@@ -30,7 +30,7 @@ I love to build cool projects, solve real-world problems, and contribute to open
 <!-- 🔭 Currently working on: `Smart City IoT Projects`  --->
 - 🌱 Learning: `AI`, `Data Science`, `Full-Stack Development`  
 - 💬 Ask me about anything tech-related  
-- 📫 How to reach me: [Your Email] | [LinkedIn] | [Portfolio]
+- 📫 How to reach me: diyaa11.cloud@gmail.com | www.linkedin.com/in/diya-jain-36316a25a
 
 ---
 
