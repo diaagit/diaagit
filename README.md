@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 I'm passionate about web development, AI, and IoT.  
 I love to build cool projects, solve real-world problems, and contribute to open-source.
 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <!-- 🔭 Currently working on: `Smart City IoT Projects`  --->
 - 🌱 Learning: `AI`, `Data Science`, `Full-Stack Development`  
 - 💬 Ask me about anything tech-related  
@@ -47,8 +50,7 @@ I love to build cool projects, solve real-world problems, and contribute to open
 ![](https://nirzak-streak-stats.vercel.app/?user=diaagit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diaagit&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=diaagit&icon=0&color=0)](https://visitcount.itsvg.in)
